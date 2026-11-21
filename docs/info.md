@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Using logic gates and switches we can visualize changes in a LED 
 
 ## How to test
 
-Explain how to use your project
+Running the simulation and turning on the swtiches we can observe changes 
 
 ## External hardware
 
